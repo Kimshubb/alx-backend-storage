@@ -1,0 +1,2 @@
+// displays total docs in school collection
+db.school.find().count();
