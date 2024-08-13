@@ -1,0 +1,2 @@
+//all that start with the name holberton
+db.school.find({name: {$regex: '^Holberton'}})
