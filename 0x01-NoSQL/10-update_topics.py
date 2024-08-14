@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """pymongo
 """
 def update_topics(mongo_collection, name, topics):
